@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and App development
 - 🌱 I’m currently learning python and flutter
 - 💞️ I’m looking to collaborate on python and flutter projects
-- 📫 How to reach me @ fahadpuzhakkaraillath@gmail.com
+- 📫 reach me @ fahadpuzhakkaraillath@gmail.com
 
 <!---
 FAHADPN/FAHADPN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FAHADPN
-- 👀 I’m interested in Machine learning and App development
-- 🌱 I’m currently learning python and flutter
-- 💞️ I’m looking to collaborate on python and flutter projects
+- 👀 I’m interested in Machine learning, Web and App development
+- 🌱 I’m currently learning python, java ,django and flutter
+- 💞️ I’m looking to collaborate on django and flutter projects
 - 📫 reach me @ fahadpuzhakkaraillath@gmail.com
 
 <!---

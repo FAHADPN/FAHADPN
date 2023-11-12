@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FAHADPN
 - 👀 I’m interested in Machine learning, Web, LLM and AR App development
 - 🛠️ Currently building an AR SaaS tool with using Unity, Next.js and ARCore Geospatial API
-- 🌱 I’m currently learning python,django, LLMs and ARCore (Geospatial API)
+- 🌱 I’m currently learning python,django, LLMs and ARCore (Geospatial API), Lightship ARDK
 - 💞️ I’m looking to collaborate on django, LLMs and ARCore projects
 - 📫 reach me @ fahadpuzhakkaraillath@gmail.com
 
